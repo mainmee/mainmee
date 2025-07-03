@@ -1,7 +1,7 @@
 # Hi there, I'm Paballo👋
 
 ## 💫 About Me:
-🎓 Final-year BSc Computer Science student at the University of Pretoria<br>🔐 Deeply interested in cybersecurity, data analytics, backend engineering, and ethical tech<br>🧠 Enjoy solving complex problems with simple, modular solutions<br>🌐 I thrive in collaborative environments and have experience in building dynamic web applications.<br>🎾 Squash player — discipline and growth on and off the court
+🎓 Final-year BSc Computer Science student at the University of Pretoria<br>🔐 Deeply interested in cybersecurity, data analytics, backend engineering, and ethical tech<br>🧠 Enjoy solving complex problems with simple, modular solutions<br>🌐 I thrive in collaborative environments and have experience in building dynamic web applications.<br>🎾 Squash player, discipline and growth on and off the court
 
 
 ## 🌐 Socials:
